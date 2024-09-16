@@ -8,6 +8,7 @@
 #### I learned so much while making this template, if you use it, please let me know. I would love to see how amazing people can make it! I hope you'll like it!
 
 **I have used:**
+
 * HTML5 for markup
 * Pure CSS3 for styling
 * Bit of Jquery to make header animation effects work
